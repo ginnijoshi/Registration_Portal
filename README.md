@@ -1,1 +1,1 @@
-# Registration_Portal
+# Student-Registration-Portal
